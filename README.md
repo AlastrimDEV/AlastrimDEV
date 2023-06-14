@@ -15,8 +15,12 @@ Angler Studio is dedicated to crafting immersive experiences and elevating onlin
 Stay tuned for an exciting upcoming project. More details will be revealed soon.
 
 ---
+### Statistics:
+![Profile views](https://komarev.com/ghpvc/?username=alastrimdev&style=flat-square&color=blueviolet)
 
-<p align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alastrimdev&langs_count=10&layout=compact&card_width=445&bg_color=1F1D2EFF&text_color=FDFDFDFF&title_color=EA9A97&hide_border=true"></p>
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=alastrimdev&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alastrimdev&theme=dark&hide_border=true" width="400">
 </p>
