@@ -1,7 +1,7 @@
 # Hi 👋 I am Pratik Ojha! 
 I am a Computer Science Student, learning JavaScript, web development, and graphics designing for creating user-friendly web applications...
 
-- 🌐 Visit my [Portfolio](https://volt8.me/) for more information and to get in touch.
+- 🌐 Visit my [Portfolio](https://pratik-ojha.com.np/) for more information and to get in touch.
 - ✍️ Follow me on [My Socials](https://linktr.ee/pratikojha/) for more content.
 
 ---
