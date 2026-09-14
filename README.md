@@ -23,5 +23,14 @@ Backend Developer
 
 </p>
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlastrimDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlastrimDEV&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlastrimDEV&theme=tokyonight" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
 <br>
